@@ -22,3 +22,5 @@ recomenda-se selecionar sempre a MIT.
 Em seguida você pode publicar seu repositorio em
 Publish repository.
 Pode ser marcado a opção para deixar publico ou não.
+O github somente suportar arquivos do maximo de tamanho de 250mb
+mesmo com a SSH KEY.
