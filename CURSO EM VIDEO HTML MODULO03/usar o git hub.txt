@@ -1,0 +1,4 @@
+Para criar um repositorio
+Siga os passos do site usando o terminal(cmd).
+use CD + diretorio da pasta para enviar o terminar para a pasta
+e depois pode ser usado o vscode para dar um commit as mudanças.
