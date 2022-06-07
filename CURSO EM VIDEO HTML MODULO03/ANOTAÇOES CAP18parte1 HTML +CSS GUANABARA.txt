@@ -24,3 +24,9 @@ Publish repository.
 Pode ser marcado a opção para deixar publico ou não.
 O github somente suportar arquivos do maximo de tamanho de 250mb
 mesmo com a SSH KEY.
+Pode ser aberto no vs code.
+um M no vs code significa que houve modificação.
+clique em Fetch origin no github desktop para
+verificar as mudanças feitas.
+pode ser selecionada a branch e em seguida use o commit to main(branch).
+e em seguida clique em push origin no git hub.
