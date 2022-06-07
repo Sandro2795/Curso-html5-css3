@@ -30,3 +30,7 @@ clique em Fetch origin no github desktop para
 verificar as mudanças feitas.
 pode ser selecionada a branch e em seguida use o commit to main(branch).
 e em seguida clique em push origin no git hub.
+O git hub cria uma pasta se voce não tiver criado a pasta a 
+que estiver referindo no repositorio.
+
+Quando for remover um repositorio remova no github desktop.
