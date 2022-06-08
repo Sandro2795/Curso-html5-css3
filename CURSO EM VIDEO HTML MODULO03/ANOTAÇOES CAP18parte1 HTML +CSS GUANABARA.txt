@@ -16,7 +16,7 @@ No github clique em:
 Create a new repository on your hard drive(um repositorio local)...
 copie e cole o nome da pasta onde voce irá criar o repositorio.
 selecione o local path:o local da pasta que vai ser o repositório.
-Você pode selecionar que o github ignore qualqur linguagem.
+Você pode selecionar que o github ignore qualquer linguagem.
 em seguida selecione a licença
 recomenda-se selecionar sempre a MIT.
 Em seguida você pode publicar seu repositorio em
