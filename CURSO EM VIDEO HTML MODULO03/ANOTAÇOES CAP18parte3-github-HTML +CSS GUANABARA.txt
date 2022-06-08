@@ -1,1 +1,18 @@
 ANOTAÇOES CAP18parte3-github-HTML +CSS GUANABARA
+git hub social
+Clique em all git hub para pesquisar no git hub como um tudo.
+Existe marcas e usuarios.
+é possivel ir no repositorio da marca e colocar
+para notificar você sobre as mudanças em watch.
+pode ser colocado uma estrela no repositorio para segui-lo.
+o url https://github.com/explore pode usado 
+para explorer pessoas e projetos.
+pode ser buscado em trending portuguese.
+github.com/frontendbr/vagas
+você pode colocar 'issue' nos repositorios para
+identificar problemas e outros para as pessoas te ajudar.
+fexadas e abertas. é possivel editar seu perfil.
+
+
+clonagem de repositorio.
+Para poder usar o repositorios em outros lugares.
