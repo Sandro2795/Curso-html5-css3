@@ -6,3 +6,4 @@ clique no + para manter as mudanças no vs code.
 
 O github somente suportar arquivos do maximo de tamanho de 250mb
 mesmo com a SSH KEY
+problema
