@@ -19,5 +19,27 @@ Para poder usar o repositorios em outros lugares.
 Clicando em 'code' no git hub e abra no desktop.
 pode ser clonado o repositorio publico de qualquer pessoa.
 
-git hub em varios pcs.
+git hub em varios pcs. 
+trazendo seus repositorios para outro computador.
+
+é necessario ter um navegador(chrome), vscode, git e github desktop.
+No githubdesktop vá em file > options > account (para logar na sua conta github).
+-e assim já aparece seus repositórios.
+-e em seguida clique em file > options > git > save (para sincronizar o progama).
+-e em seguida clique no lado direito em um dos seus repositórios para clonar.
+-e em seguida abra o repositório com vscode ainda no gitdesktop.
+-e em seguida crie alguma mudança no repositório para poder dar
+commit no githubdesktop.
+-e em seguida clique em 'push' no githubdesktop.
+
+Quanto for sair do computador e não quiser deixar rastros.
+No githubdesktop clique em repository > remove .marque a caixinha de
+also move this repository ro recicle bin antes de confirmar.
+-e em seguida deslogue no file > options > account.
+-e em seguida apague o nome e email no file > options > git.
+-e em seguida esvazie a lixeira. 
+ 
+
+
+
 
