@@ -16,3 +16,5 @@ fexadas e abertas. é possivel editar seu perfil.
 
 clonagem de repositorio.
 Para poder usar o repositorios em outros lugares.
+Clicando em 'code' no git hub e abra no desktop.
+pode ser clonado o repositorio publico de qualquer pessoa.
