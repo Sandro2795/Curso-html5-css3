@@ -1,1 +1,12 @@
 ANOTAÇOES CAP19parte1-github-HTML +CSS GUANABARA
+Abra os exercicio no vscode atraves do githubdesktop agora.
+A propriedade display: inline-block; dexa os block em linha reta
+um do lado do outro.
+
+colocando imagens de fundo
+Usando id="" no seus elementos block-levels.
+Use a Proriedade background-image: url (''); para colocar imagens de fundo.
+exemplo:  background-image: url(imagens/pattern001.png).
+se a imagen for muito grande  o html não vai mostrar a imagen toda
+dependendo do tamanho do block.
+lembre de deixar sua imagen menor com o gimp.
