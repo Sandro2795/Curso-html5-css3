@@ -1,4 +1,6 @@
 ANOTAÇOES CAP19parte1-github-HTML +CSS GUANABARA
+https://gustavoguanabara.github.io/html-css/imagens/mascote.png
+
 Abra os exercicio no vscode atraves do githubdesktop agora.
 A propriedade display: inline-block; dexa os block em linha reta
 um do lado do outro.
@@ -24,8 +26,34 @@ background-repeat: repeat-y; faz a imagen se repetir verticalmente
 background-repeat: repeat-x; faz a imagen se repetir horizontalmente
 Normalmente o ponto de partida da imagen sempre é o canto superior esquerdo.
 
+Posição de imagem de fundo.
+
+crie um id="" no seus elementos block-levels.
+A propriedade  background-position: ; muda onde fica a posição da imagen.
+Exemplos:
+background-position:  left top;, background-position: left center;
+background-position: right bottom;  background-position: center center;
+Isso faz as imagens começar da posição determinada pelo background-position: ;
+Olhe o walpaper003.jpg para ver o grafico completo das direções.
+-e também veja o exercicio fundo03.html e fundo04.html.
+
+Use height: 98vh; para fazer a imagen no body aproveitar 100% no meio do body.
+
+Use border: 1px dashed black; para saber onde fica o limite da viewport do body.
+assim use o background-position: ; para mover a imagen pela pagina.
+A orden de valor no background-position: é a coluna e depois a linha horizontal.
+Isso muda onde e a direção que imagem começa quando está em telas pequenas.
+Bom para quando voce quer que onde a imagen do seu site comece. 
+
+ 
 
 
 
-gustavoguanabara.github.io/html-css/imagens/mascote.png
+
+
+
+
+
+
+
 
