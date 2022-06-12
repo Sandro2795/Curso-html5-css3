@@ -43,12 +43,23 @@ Use border: 1px dashed black; para saber onde fica o limite da viewport do body.
 assim use o background-position: ; para mover a imagen pela pagina.
 A orden de valor no background-position: é a coluna e depois a linha horizontal.
 Isso muda onde e a direção que imagem começa quando está em telas pequenas.
-Bom para quando voce quer que onde a imagen do seu site comece. 
+Bom para quando voce quer que onde a imagen do seu site comece.
 
- 
+-é recomendavel ter um background color:black para aparecer enquanto 
+seu site está carregando.
+
+Use background-size: 100%      100%; para deixar a imagem bem expandida e colada bem dos 
+lados da tela.    ( largura) ( altura) 
+
+A propriedade background-size: contain; faz o fundo ser exibido 100% na tela
+contido com barras.
+
+A propriedade background-size: cover; coloca a imagen de fundo 100% na tela
+porém corta a imagen se for diminuida e responsiva.
 
 
-
+A propriedade background-size: auto; dexa o navegador se virar e exibir a imagen
+por conta propria.
 
 
 
