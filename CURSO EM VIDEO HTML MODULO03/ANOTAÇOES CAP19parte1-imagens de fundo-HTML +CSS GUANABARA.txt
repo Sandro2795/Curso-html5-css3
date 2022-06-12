@@ -59,7 +59,9 @@ porém corta a imagen se for diminuida e responsiva.
 
 
 A propriedade background-size: auto; dexa o navegador se virar e exibir a imagen
-por conta propria.
+por conta propria automaticamente.
+
+professorguanabara.github.io/html-css/exercicio/ex022/fundo006.html
 
 
 

@@ -1,0 +1,16 @@
+ANOTAÇOES CAP19parte2-imagens de fundo-HTML +CSS GUANABARA
+
+Backgroud- attachmente e shorthand.
+A propriedade background-attachment: fixed; dexa o fundo fixo na tela
+mesmo havendo rolagem.
+
+Fazendo uma Shorthand - background
+Ordem
+color > image > position > repeat > size > attachment
+Exemplo:
+background: black url(imagens/wallpaper002.jpg) center top no-repeat cover fixed;
+
+Por algum motivo  o size (cover) não está fucionando.
+entao use um background-size: cover;  separado.
+
+
