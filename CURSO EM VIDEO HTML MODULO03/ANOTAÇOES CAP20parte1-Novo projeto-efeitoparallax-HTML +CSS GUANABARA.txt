@@ -63,3 +63,8 @@ section {
 }
 
 Use section.imagem > p { para configurar especificamente o paragrafo.
+
+Fazer uma fonte ficar menor e responsiva sem mediaq
+
+Use a propriedade font-size: 10vw; Use VW
+
