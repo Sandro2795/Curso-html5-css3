@@ -79,6 +79,8 @@ section.normal {
 section.imagem {
   background-color: rgba(0, 0, 0, 0.637);
   color: white;
+  box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.470);
+  background-attachment: fixed;
 }
 
 section.normal > p {
@@ -88,10 +90,22 @@ section.normal > p {
 
 section.imagem > p {
   width: 400px;
-  background-color: rgba(0, 0, 0, 0.274);
+  background-color: rgba(0, 0, 0, 0.514);
   padding-left: 7px;
   text-align: justify;
-  
+  text-shadow: 1.5px 1.5px 0px black;
+}
+
+section#img01 {
+  background-image: url(../desafio12/imagens/background001.jpg);
+  background-position: right center;
+  background-size: cover;
+
+}
+
+section#img02 {
+  background-image: url(../desafio12/imagens/background002.jpg);
+  background-size: cover;
 }
 
 footer {
