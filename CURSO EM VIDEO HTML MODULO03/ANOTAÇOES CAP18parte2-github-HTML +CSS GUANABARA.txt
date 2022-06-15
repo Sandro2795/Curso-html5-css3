@@ -2,7 +2,7 @@ ANOTAÇOES CAP18parte2 HTML +CSS GUANABARA
 Hospedando no github
 Com GitHub Pages.
 Clique em settings no repositorio.
-prorcure por git hub pages.
+procure por git hub pages.
 primeiro clique em choose a theme.
 e em seguide clique em commit.
 assim voce vai ter seu endereço

@@ -1,0 +1,74 @@
+*{
+  margin: 0px;
+  padding: 0px;
+
+}
+@font-face {
+  font-family:'mega';
+  src: url(fontes/MegaMan.[fontvir.us].ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family:'smw';
+  src: url(fontes/smw.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family:'retro';
+  src: url(fontes/Retro\ Stereo\ Wide.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html body {
+  background-color: white;
+  height: 100vh;
+}
+
+header {
+background-image: url(imagens/mwIr52300.png);
+background-color: #D1D9CE;
+height: 240px;
+background-position: top center ;
+background-repeat: no-repeat;
+width: auto;
+border: 2px solid black;
+box-shadow: 1.5px 1.5px 2px rgba(0, 0, 0, 0.548);
+
+
+}
+
+header > h1 {
+  text;
+  padding-top: 40px;
+  font-family: 'retro';
+  font-weight: lighter;
+  font-size: 25px;
+  text-align: center;
+  background-image: linear-gradient(to right,rgb(102, 101, 101), rgb(99, 99, 99),rgb(1, 1, 124),rgb(1, 1, 102)) ;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+}
+
+header > h1::before{
+  font-family: 'smw';
+  content: "z";
+  padding-right: 7px;
+  text-transform: red ;
+  font-size: 50px; 
+}
+
+header > h1::after{
+  font-family: 'mega';
+  content: "a";
+  padding-left: 7px;
+  text-transform: red ;
+  font-size: 50px; 
+}
