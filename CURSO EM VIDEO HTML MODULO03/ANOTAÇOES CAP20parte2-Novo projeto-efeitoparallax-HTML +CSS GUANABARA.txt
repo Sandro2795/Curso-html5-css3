@@ -1,0 +1,6 @@
+ANOTAÇOES CAP20parte2-Novo projeto-efeitoparallax-HTML +CSS GUANABARA
+
+FAZENDO EFEITO PARALLAX
+
+coloque id=img01 e id=img02 respectivamentes nas sections que
+ estáo com  class="imagem">

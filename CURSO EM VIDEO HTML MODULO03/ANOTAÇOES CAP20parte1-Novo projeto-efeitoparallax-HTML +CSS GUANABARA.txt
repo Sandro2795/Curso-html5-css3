@@ -68,3 +68,7 @@ Fazer uma fonte ficar menor e responsiva sem mediaq
 
 Use a propriedade font-size: 10vw; Use VW
 
+Use section > p {
+  padding-bottom: 2em;
+} para deixar os paragrafos bem espaçados entre si.
+
