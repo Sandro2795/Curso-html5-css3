@@ -1,0 +1,4 @@
+ANOTAÇOES CAP21parte1-TabelasHTML +CSS GUANABARA
+
+Não use tabelas para criar a estrutura do seu site e layouts.
+Só é bom para aprensentar dados de forma tabular.

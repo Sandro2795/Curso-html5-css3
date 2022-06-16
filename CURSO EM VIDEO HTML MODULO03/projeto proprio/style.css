@@ -28,23 +28,25 @@
 html body {
   background-color: white;
   height: 100vh;
+  background-color: #d1d9cea4;
 }
 
+
 header {
-background-image: url(imagens/mwIr52300.png);
+background-image: url(imagens/mwIr52300\ -\ Copixa.png);
 background-color: #D1D9CE;
 height: 240px;
-background-position: top center ;
+background-position: center center ;
 background-repeat: no-repeat;
 width: auto;
 border: 2px solid black;
 box-shadow: 1.5px 1.5px 2px rgba(0, 0, 0, 0.548);
+background-size: 100% ;
 
 
 }
 
 header > h1 {
-  text;
   padding-top: 40px;
   font-family: 'retro';
   font-weight: lighter;
@@ -72,3 +74,62 @@ header > h1::after{
   text-transform: red ;
   font-size: 50px; 
 }
+
+main {
+  background-color:#D1D9CE ;
+  width: auto;
+  margin: 50px;
+  height: 1200px;
+}
+
+.img1{
+  width: 60%;
+
+}
+
+
+
+.container-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  background-color: black;
+  
+  
+}
+
+.content-img1 {
+  text-align: center;
+  background-color: pink; 
+  width: 100%; 
+}
+
+.content-images {
+  background-color: aquamarine;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.img2{
+  width: 20%;
+}
+
+
+.img3 { 
+  width: 20%;
+}
+
+.img4 {
+  width: 20%;
+}
+
+
+
+
+
+
+
+
+
