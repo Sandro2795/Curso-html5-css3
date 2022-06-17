@@ -1,0 +1,2 @@
+
+USe position: absolute;  fazer outra div nao empurrar outra
