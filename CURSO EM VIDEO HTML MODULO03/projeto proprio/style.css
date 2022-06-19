@@ -35,14 +35,26 @@
   font-style: normal;
 }
 @font-face {
-  font-family:'retro';
-  src: url(assets) format('truetype');
+  font-family:'snesf';
+  src: url(assets/fontes/SNES\ Italic.ttf) format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family:'retro';
-  src: url(assets) format('truetype');
+  font-family:'smb1font';
+  src: url(assets/fontes/super-mario-bros-the-lost-levels-font.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family:'smb2font';
+  src: url(assets/fontes/Super\ Mario\ Bros.\ 2.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family:'smb3font';
+  src: url(assets/fontes/Super-Mario-Bros--3.ttf) format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -117,37 +129,69 @@ article{
 }
 
 article > h1 {
+  padding-bottom: 120px;
   display: flex;
-  font-family:'marioc';
+  font-family:'snesf';
   font-size: 100px;
   font-weight: 900;
   text-align: center;
   width: 60%;
-  padding-top: 40px;
-  background-image: linear-gradient(to right,red,rgba(0, 128, 0, 0.514),blue) ;
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-color: black;
+  color: #ef0b16e8;
   justify-content: center;
-  
-  
-  
+  text-decoration: underline;
 }
 
-a {
+.smwd {
   display: block;
   font-size: 50px;
-  
+  width: 60%;
+  padding-bottom: 18px;
+  text-align: center;
+  font-family: 'marioc';
+  text-decoration: solid;
+  font-weight: lighter;
+  text-shadow: 3px 3px 0px black;
+  letter-spacing: 3px;
+  text-decoration: underline;
+  color: #01c2cf ;
+}
+
+.smb3d {
+  font-family:'smb3font' ,cursive;
+  padding-bottom: 18px;
+  display: block;
+  font-size: 50px;
   width: 60%;
   text-align: center;
- 
+  font-size: 36px;
+  font-weight: normal;
+  color: #297ca8;
+  
+
+}
+
+.smb2d{
+  font-family:'smb2font';
+  padding-bottom: 18px;
+  display: block;
+  font-size: 50px;
+  width: 60%;
+  text-align: center;
+  font-size: 36px;
+}
+
+.smb1d{
+  font-family:'smb1font';
+  padding-bottom: 18px;
+  display: block;
+  font-size: 50px;
+  width: 60%;
+  text-align: center;
+  font-size: 36px;
 }
 
 .img1{
   width: 60%;
-  
-
 }
 
 .container-box {
@@ -155,16 +199,13 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: flex-end; 
-  width:  ;
-  background-color: antiquewhite;
 }
 
 .content-img1 {
   text-align: center;
   width: 50%; 
   display: flex;
-  justify-content: flex-end;
-  
+  justify-content: flex-end;  
 }
 
 .content-images {
@@ -175,13 +216,10 @@ a {
 
 .img2{
   width: 20%;
-  
-  
 }
 
 .img3 { 
-  width: 20%;
-  
+  width: 20%; 
 }
 
 .img4 {
