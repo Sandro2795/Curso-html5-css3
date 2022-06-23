@@ -9,8 +9,8 @@ text-align: center; <-- Isto é um alinhamento horizontal.
 }
 
 A propriedade vertical-align: ; pode ser usado para alinhar verticalmente elementos
-de uma tabela ou outro.
-Exemplo: Lembre-se de usar na declaração td(dado da tablea)
+de uma tabela ou outro. Sendo o meio :middle ;
+Exemplo: Lembre-se de usar na declaração td(dado da tablea).
 td {
        border: 1px solid black;
        padding: 5px;
