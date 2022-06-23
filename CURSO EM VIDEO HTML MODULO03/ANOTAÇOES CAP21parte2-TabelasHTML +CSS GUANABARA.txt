@@ -16,3 +16,5 @@ td {
        padding: 5px;
        vertical-align: top; <-- alinhamento vertical.
    }
+
+Tabelas semanticas(melhores para ser achador pelo buscador google).
