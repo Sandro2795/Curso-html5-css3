@@ -17,4 +17,28 @@ td {
        vertical-align: top; <-- alinhamento vertical.
    }
 
-Tabelas semanticas(melhores para ser achador pelo buscador google).
+Tabelas grandes e semanticas(melhores para ser achador pelo buscador google).
+
+Anatomia para tabelas grandes e semanticas.
+ TABLE
+   -THEAD <--HEADER ou cabeçalho da tabela.
+      -TR, TD, TH
+   -TBODY <--BODY(MAIN) ou corpo da tabela.
+      -TR, TD, TH
+   -TFOOT <-- FOOTER ou rodape da tabela. (não é obrigatório).
+      -TR, TD, TH
+
+O navegador ja organiza as tabela semanticamente não importa a ordem que coloque.
+Exemplo: não esqueça de usar a tag <strong> para dar força e importancia ao número.
+<table>
+<thead> <-- pode ser colodado <th> e <td> dentro das tabelas.
+
+</thead>
+  <tbody>
+
+  </tbody>
+  <tfoot>
+
+  </tfoot>
+</thead>
+</table>
