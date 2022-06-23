@@ -21,6 +21,8 @@ Tabelas grandes e semanticas(melhores para ser achador pelo buscador google).
 
 Anatomia para tabelas grandes e semanticas.
  TABLE
+   -CAPTION <-- legenda da tabela.
+     Coloca-se somente um texto.
    -THEAD <--HEADER ou cabeçalho da tabela.
       -TR, TD, TH
    -TBODY <--BODY(MAIN) ou corpo da tabela.
@@ -31,6 +33,9 @@ Anatomia para tabelas grandes e semanticas.
 O navegador ja organiza as tabela semanticamente não importa a ordem que coloque.
 Exemplo: não esqueça de usar a tag <strong> para dar força e importancia ao número.
 <table>
+<caption>
+
+</caption>
 <thead> <-- pode ser colodado <th> e <td> dentro das tabelas.
 
 </thead>
