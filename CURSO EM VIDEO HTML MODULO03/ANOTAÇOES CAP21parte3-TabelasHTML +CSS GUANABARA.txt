@@ -31,3 +31,21 @@ Exemplo
 Mundando o style de um <th> muda todos as coluna de <td> abaixo.
 
 EFEITO ZEBRADO : colocar uma linha de cada cor para melhorar a leitura.
+
+Use a pseudoclasse :nth-child() no tr para selecionar <tr> filhos no <tbody>
+Exemplo:
+tbody > tr:nth-child(2n) <-- isto siginifica que está selecionado de 2 em 2 filhos do tr.
+
+:nth-child(2n-1) pega em 2 em 2 filhos anteriores.
+:nth-child(odd)  para pegar somente filhos impares.
+:nth-child(even) para pegar somente filhos pares.
+
+Pode ser colocado mais de uma declaração tbody > tr:nth-child(). 
+para fazer varios styles e efeitos diferentes.
+Exemplo:
+ tbody > tr:nth-child(2n-1) {
+      background-color: lightgray;
+    }
+    tbody > tr:nth-child(2n) {
+      background-color: wheat;
+    }
