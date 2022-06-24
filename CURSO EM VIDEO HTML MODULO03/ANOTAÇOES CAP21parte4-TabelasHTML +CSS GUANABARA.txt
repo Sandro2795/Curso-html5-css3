@@ -1,0 +1,3 @@
+ANOTAÇOES CAP21parte4-TabelasHTML +CSS GUANABARA
+
+Cabeçalho fixo em tabelas grandes
