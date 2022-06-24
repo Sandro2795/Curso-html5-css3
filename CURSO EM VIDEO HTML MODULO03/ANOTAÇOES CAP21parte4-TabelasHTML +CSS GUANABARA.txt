@@ -1,3 +1,21 @@
 ANOTAÇOES CAP21parte4-TabelasHTML +CSS GUANABARA
 
 Cabeçalho fixo em tabelas grandes
+
+position:; muda o comportamento do seu elemento se fica fixo(absolute) ou relativo.
+sticky deixa grudavel.
+
+colocando a propriedade em top: 0; se tiver junto a propriedade
+position: sticky; isso faz grudar no elemento top de cima 0
+top: -1px; dexa o top grudado mais colocado ao topo
+no thead > tr > th {
+}
+
+deve ser colocado o position: relative; na tag ordenada acima.
+exemplo :
+
+<table> <-- coloque o position: relative; aqui.
+    <caption>População das Unidades Federativas</caption>
+      <thead>
+        <tr>
+          <th scope="col">Estado</th> <-- pode ser colocado o position: sticky; aqui.
