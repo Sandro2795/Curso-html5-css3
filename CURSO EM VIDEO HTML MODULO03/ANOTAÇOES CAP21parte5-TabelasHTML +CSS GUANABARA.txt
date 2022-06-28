@@ -1,1 +1,8 @@
 ANOTAÇOES CAP21parte5-TabelasHTML +CSS GUANABARA
+
+Lembre-se de usar de colocar os <th> e <td> dentro de todo <tr>.
+
+Aparti da 2 linha de seu rowspan=
+já comece com <td>
+
+Só existe escopo em <th>.
