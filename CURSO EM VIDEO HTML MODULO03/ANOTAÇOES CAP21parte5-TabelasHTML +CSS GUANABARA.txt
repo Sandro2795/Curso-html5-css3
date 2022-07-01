@@ -21,3 +21,12 @@ Coloque scope="colgroup"(grupo de coluna) quando usar uma mesclagem de celulas <
 Coloque scope="rowgroup"(grupo de linhas) quando o <th> estiver se referindo a um
 conjungo de linhas.
 
+Não esquecer de colocar 
+
+<thead>
+<tbody>
+<tfoot>
+
+dentro de uma <table>.
+
+<caption> vem antes do <thead>
