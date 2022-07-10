@@ -15,9 +15,9 @@ entao use um background-size: cover;  separado.
 
 Centralização vertical de caixas
 
-margin: auto; centraliza o  alinha conteudo horizontal.
+margin: auto; centraliza e  alinha conteudo horizontal.
 
-Todo box-level no html por padrão está com a configuração 
+Todo block-level no html por padrão está com a configuração 
 position:relative;.
 
 A propriedade position: absolute; permite você usar as propriedades

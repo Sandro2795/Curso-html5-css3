@@ -2,7 +2,7 @@ ANOTAÇOES CAP20parte1-Novo projeto-efeitoparallax-HTML +CSS GUANABARA
 
 professorguanabara.github.io/projeto-cordel/
 
-Se seu site tiver varios textos envolepe em sections.
+Se seu site tiver varios textos envelope em sections.
 use <br>(quebra de linhas) para separar as frases se for poesia.
 envelope os elementos dentro da section em <p>(paragrafos).
 para ter as poesias semanticamente separadas em paragrafos.
@@ -32,7 +32,8 @@ Não esquecer de usar line-height: 2em; nas poesias.
 Use a propriedade font-variant: small-caps; para deixar o texto
 maiusculo porém com as primeira letra de cada palavra bem maior que as outras.
 
-Use header a, footer a { e header a:hover, footer a:hover{
+Use header a, footer a { 
+e header a:hover, footer a:hover{
 para ser mais especifico
 
 Sempre coloque seu css em orden coerente
