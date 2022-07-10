@@ -19,9 +19,9 @@ A tag <td> cria uma TABLE DATA dentro de <tr> o fexamento(</td>) dessa tag não 
 Exemplo: 
 <table>
     <tr> <-- primeira linha.
-      <td>A1</td>
-      <td>B1</td>
-      <td>C1</td>
+      <td>A1
+      <td>B1
+      <td>C1
     </tr>
     <tr> <-- segunda linha
       <td>A2</td>

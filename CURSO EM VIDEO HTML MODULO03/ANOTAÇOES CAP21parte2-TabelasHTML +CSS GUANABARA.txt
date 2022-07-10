@@ -45,5 +45,4 @@ Exemplo: não esqueça de usar a tag <strong> para dar força e importancia ao n
   <tfoot>
 
   </tfoot>
-</thead>
 </table>
